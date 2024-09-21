@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "react-native-test",
+    "name": "Calendar Test App",
     "slug": "react-native-test",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.reactnativetest"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1f849d9d-969c-4c1b-9251-fb7e51be7224"
+      }
     }
   }
 }

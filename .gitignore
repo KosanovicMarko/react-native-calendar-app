@@ -8,6 +8,9 @@ node_modules/
 dist/
 web-build/
 
+# React Native Build Files
+android/app/build/
+
 # Native
 *.orig.*
 *.jks
